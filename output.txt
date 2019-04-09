@@ -1,0 +1,8 @@
+How many Checking accounts: 4
+Customer #: 2
+Balance: 100
+Account 2 created.Customer #: 2
+Balance: 500
+Account 2 created.Customer #: 2
+Balance: 400
+Account 2 created.Customer #: 
